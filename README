@@ -1,0 +1,84 @@
+# PlatinumRx Data Analyst Assignment
+
+## 📌 Objective
+
+This project demonstrates core Data Analyst skills including:
+
+* SQL (database design and querying)
+* Excel (data analysis and reporting)
+* Python (basic programming logic)
+
+---
+
+## 📂 Project Structure
+
+Data_Analyst_Assignment/
+
+│
+
+├── SQL/
+
+│   ├── 01_Hotel_Schema_Setup.sql
+
+│   ├── 02_Hotel_Queries.sql
+
+│   ├── 03_Clinic_Schema_Setup.sql
+
+│   └── 04_Clinic_Queries.sql
+
+│
+
+├── Spreadsheets/
+
+│   └── Ticket_Analysis.xlsx
+
+│
+
+├── Python/
+
+│   ├── 01_Time_Converter.py
+
+│   └── 02_Remove_Duplicates.py
+
+---
+
+## 🧠 SQL Tasks
+
+### Hotel Management System
+
+* Retrieved last booked room per user
+* Calculated total billing amounts
+* Filtered high-value bills
+* Identified most and least ordered items
+* Found second highest billing customers
+
+### Clinic Management System
+
+* Calculated revenue by sales channel
+* Identified top customers
+* Computed monthly profit/loss
+* Found most and least profitable clinics
+
+---
+
+## 📊 Spreadsheet Tasks
+
+* Used **INDEX-MATCH** to populate missing values
+* Created helper columns for:
+
+  * Same Day comparison
+  * Same Hour comparison
+* Used **Pivot Table** for outlet-wise analysis
+
+---
+
+## 🐍 Python Tasks
+
+### 1. Time Converter
+
+* Converted minutes into hours and minutes format
+
+### 2. Remove Duplicates
+
+* Removed duplicate characters from a string using loops
+
